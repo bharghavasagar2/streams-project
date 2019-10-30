@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "my title",
+      "description": "title",
+      "id": 1
+    },
+    {
+      "title": "others",
+      "description": "stream",
+      "id": 2
+    },
+    {
+      "title": "gss",
+      "description": "sgs",
+      "id": 7
+    },
+    {
+      "title": "bellamkonda",
+      "description": "ganesh",
+      "userId": "118343742381712517995",
+      "id": 15
+    },
+    {
+      "title": "bharghav",
+      "description": "sagar",
+      "userId": "118343742381712517995",
+      "id": 16
+    },
+    {
+      "title": "delete me",
+      "description": "yeah go ahead",
+      "userId": "118343742381712517995",
+      "id": 17
+    },
+    {
+      "title": "welcome ",
+      "description": "sagr",
+      "userId": "118343742381712517995",
+      "id": 18
+    }
+  ]
+}
